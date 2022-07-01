@@ -1,0 +1,3 @@
+primary color - #fc5d35
+
+font-family - Poppins
